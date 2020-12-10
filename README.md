@@ -7,7 +7,7 @@ Bueno a nosotros no dan un codigo modificado y ese codigo lo teniamos que modifi
 
 Cosas que he tenido que hacer para hacer el examen
 
-##1 He añadido el nav para que se hagan referencias a las imagenes
+1 He añadido el nav para que se hagan referencias a las imagenes
 
 <nav>
         <ul>
@@ -19,7 +19,7 @@ Cosas que he tenido que hacer para hacer el examen
         </ul>
       </nav>
     
-##2 Posteriormente lo que he tenido que hacer es añadir el "main" e añadido el main para representar el contenido principal por asi decirlo el body
+2 Posteriormente lo que he tenido que hacer es añadir el "main" e añadido el main para representar el contenido principal por asi decirlo el body
 
 <main>
         <article>
@@ -30,7 +30,7 @@ Cosas que he tenido que hacer para hacer el examen
           <p>So don't waste time! Get what you need, then turn off that computer and get out into the great outdoors!</p>
         </article>
         
-##3 Ahora he usuado el "aside" el aside sirve para mostrar el  contenido que está indirectamente relacionado con el contenido principal del documento ose va dentro del main porque el main es el contenido principal
+3 Ahora he usuado el "aside" el aside sirve para mostrar el  contenido que está indirectamente relacionado con el contenido principal del documento ose va dentro del main porque el main es el contenido principal
  
  <aside>
         <h2>Favourite photos</h2>
@@ -41,11 +41,12 @@ Cosas que he tenido que hacer para hacer el examen
         <a href="favorite-4.jpg"><img src="images/favorite-4_th.jpg" alt="Large bird, mostly white plumage with black plumage on back and rear, long straight white beak, links to larger version of the image"></a>
       </aside>
     
-##4 Por ultimo he usado el "footer" que es el pie de pagina que es para el contenido de la sección
+4 Por ultimo he usado el "footer" que es el pie de pagina que es para el contenido de la sección
 
 <footer>
         <p>This fake website example is CC0 — any part of this code may be reused in any way you wish. Original example written by Chris Mills, 2016.</p>
 
         <p><a href="http://game-icons.net/lorc/originals/dove.html">Dove icon</a> by Lorc.</p>
       </footer>
+[1]: examen2HTML/captura.png
 
