@@ -11,11 +11,11 @@ Cosas que he tenido que hacer para hacer el examen
 
 <nav>
         <ul>
-          <li><span>Home</span></li>
-          <li><a href="#">Get started</a></li>
-          <li><a href="#">Photos</a></li>
-          <li><a href="#">Gear</a></li>
-          <li><a href="#">Forum</a></li>
+          <li><span>Home</span></li
+          <li><a href="#">Get started</a></li
+          <li><a href="#">Photos</a></li
+          <li><a href="#">Gear</a></li
+          <li><a href="#">Forum</a></li
         </ul>
       </nav>
     
