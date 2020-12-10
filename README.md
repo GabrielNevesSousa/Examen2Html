@@ -7,7 +7,7 @@ Bueno a nosotros no dan un codigo modificado y ese codigo lo teniamos que modifi
 
 Cosas que he tenido que hacer para hacer el examen
 
-1 He añadido el nav para que se hagan referencias a las imagenes
+1 He añadido el nav para que se hagan referencias 
 
 <nav>
         <ul>
