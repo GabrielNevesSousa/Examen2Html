@@ -48,5 +48,5 @@ Cosas que he tenido que hacer para hacer el examen
 
         <p><a href="http://game-icons.net/lorc/originals/dove.html">Dove icon</a> by Lorc.</p>
       </footer>
-<img src="captura.PNG
+<img src="captura.PNG>
 
