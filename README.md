@@ -1,6 +1,6 @@
 # Examen2Html
 
-### Este es la explicación del examen de HTML [este es el link de  los archivos](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip?raw=true)
+Este es la explicación del examen de HTML [este es el link de  los archivos](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip?raw=true)
 
 ##¿Que teniamos que hacer?
 Bueno a nosotros no dan un codigo modificado y ese codigo lo teniamos que modificar y el resultado del codigo cambiado tenia que ser igual que el que nos pedian
